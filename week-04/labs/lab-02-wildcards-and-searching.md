@@ -226,13 +226,13 @@ In a real life situation being able to find logs and sort through them quickly i
 **Analysis Question 3.** Part C found a sensitive file by its *contents*, then audited its *permissions*. Explain why neither skill alone would have been enough — what does each half of the workflow catch that the other misses? *(Minimum 3 sentences.)*
 
 ```
-(your answer here — minimum 3 sentences)
+The reason why both skills are so essential was really brought out with this example because the specific phrase and file that needed to be found wasn't located in an obvious .txt file. So, instead of trying to narrow down documents by their name, looking for a specific phrase helped find the document in questions. While searching for a file is an essential skill it really doesn't explain the contents of the documents which are truly more important considering that protecting documents may involve unorthodox naming conventions.
 ```
 
 **Analysis Question 4.** The Archive had dozens of files; real systems have millions. Which habit from this lab do you think scales up the furthest into professional work, and why? *(Minimum 2 sentences.)*
 
 ```
-(your answer here — minimum 2 sentences)
+It's very difficult to decide which command or habit would be translate best into the professional space but I'd have to give it to the gatekeeper's rule. With all the files and directories and people within an organization keeping this habit at the forefront of your mind is a must as a professional in order to prevent unauthorized access of sensitive information as well as verifying that the security protocols you have set in place are sufficient enough to protect your systems.
 ```
 
 ---
@@ -282,6 +282,8 @@ This lab's written answers are submitted through the **CyberFoundations Lab Port
 2. Click **Add file → Upload files**, drag in your screenshot named `cli-search-investigation.png` (lowercase, hyphens, no spaces), and click **Commit changes**.
 3. Click the uploaded image's filename to open it, then right-click directly on the image and choose **Copy image address** (Chrome/Edge) or **Copy Image Link** (Firefox).
 4. Edit this lab file and paste your copied link into the embed below, at the end of Part C:
+
+![Archive investigation — find, check, lock down](https://github.com/CyViProtege/Week-04-Labs/blob/main/assets/screenshots/week-04/cli-search-investigation.png?raw=true)
 
 **If right-click doesn't show that option:** click the small download-arrow icon in the top-right of the image preview instead, then copy the URL from your browser's address bar.
 
